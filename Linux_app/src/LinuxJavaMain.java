@@ -5,5 +5,6 @@ public class LinuxJavaMain {
 		System.out.println("=====HELLO LINUX=====");
 		System.out.println("=====HELLO LINUX=====");
 		System.out.println("=====HELLO LINUX=====");
+		System.out.println("=====HELLO LINUX=====");
 	}
 }
